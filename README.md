@@ -1,36 +1,284 @@
-<h1 align="center">Hi 👋, I'm Prastuti Mushahary</h1>
-<h3 align="center">I turn caffeine into code</h3>
+<!-- ========================= HEADER ========================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prastutimushaharycse2025-dev&label=Profile%20views&color=0e75b6&style=flat" alt="prastutimushaharycse2025-dev" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prastutimushaharycse2025-dev" alt="prastutimushaharycse2025-dev" /></a> </p>
+# Hey, I'm Prastuti 👋
 
-- 🔭 I’m currently working on [Clip Hop](NA)
+### `code × design × curiosity × music`
 
-- 🌱 I’m currently learning **Typescript, Javascript, Next.js and more**
+I like building things, breaking things, learning how they work — and occasionally turning caffeine into commits.
 
-- Projects [NexOS](https://github.com/prastutimushaharycse2025-dev/NexOS)
+<a href="https://github.com/prastutimushaharycse2025-dev">
+  <img src="https://komarev.com/ghpvc/?username=prastutimushaharycse2025-dev&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+</a>
+<a href="https://github.com/prastutimushaharycse2025-dev?tab=followers">
+  <img src="https://img.shields.io/github/followers/prastutimushaharycse2025-dev?label=Followers&style=for-the-badge&color=18181B" alt="Followers"/>
+</a>
+<a href="https://github.com/prastutimushaharycse2025-dev?tab=repositories">
+  <img src="https://img.shields.io/github/stars/prastutimushaharycse2025-dev?affiliations=OWNER&style=for-the-badge&color=F5B942&label=Stars" alt="Stars"/>
+</a>
 
-- 👨‍💻 All of my projects are available at [NA](NA)
+</div>
 
-- 💬 Ask me about **python, C, HTML, CSS**
+<br/>
 
-- 📫 How to reach me **mushaharyprastuti@gmail.com**
+<!-- ========================= ABOUT ========================= -->
 
-- 📄 Know about my experiences [NA](NA)
+## `> whoami`
 
-- ⚡ Fun fact **I'm involved in music too**
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/prst.verse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prst.verse" height="30" width="40" /></a>
-</p>
+### About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+* 🔭 Currently building **Clip Hop**
+* 🧠 Learning **TypeScript, JavaScript & Next.js**
+* 💻 Working with **Python, C, HTML & CSS**
+* 🚀 Building projects around **web, AI & software**
+* 🎨 Interested in **design, creativity & technology**
+* 🎵 Music is another part of my world
+* 🧪 I learn best by **building → breaking → rebuilding**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prastutimushaharycse2025-dev&show_icons=true&locale=en&layout=compact" alt="prastutimushaharycse2025-dev" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prastutimushaharycse2025-dev&show_icons=true&locale=en" alt="prastutimushaharycse2025-dev" /></p>
+> *A little bit of everything.*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prastutimushaharycse2025-dev&" alt="prastutimushaharycse2025-dev" /></p>
+</td>
+
+<td width="45%" valign="top">
+
+### Current Stack
+
+```text
+Frontend      → React • Next.js • HTML • CSS
+Languages     → Python • C • JavaScript • TypeScript
+Backend       → Node.js • Express
+Tooling       → Git • GitHub • Vite
+Styling       → Tailwind CSS
+Exploring     → AI • Security • Full-Stack
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+## `> featured_projects`
+
+<div align="center">
+
+<a href="https://github.com/prastutimushaharycse2025-dev/NexOS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prastutimushaharycse2025-dev&repo=NexOS&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+
+<a href="https://github.com/prastutimushaharycse2025-dev/Prastuti">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prastutimushaharycse2025-dev&repo=Prastuti&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+
+<a href="https://github.com/prastutimushaharycse2025-dev/VS-Code-Sol">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prastutimushaharycse2025-dev&repo=VS-Code-Sol&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+
+</div>
+
+### 🚀 NexOS
+
+An AI-driven browser desktop OS built around a full-screen desktop experience, with React, TypeScript, Vite and Express at its core.
+
+### 🧩 Prastuti
+
+A collection of C-based algorithmic and LeetCode solutions covering arrays, linked lists, searching and more.
+
+### 🧠 VS-Code-Sol
+
+A growing collection of coding/problem-solving work written in C.
+
+---
+
+<!-- ========================= ANALYTICS ========================= -->
+
+## `> github_analytics`
+
+<div align="center">
+
+<a href="https://github.com/prastutimushaharycse2025-dev">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=prastutimushaharycse2025-dev&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github&custom_title=GitHub%20Analytics" alt="GitHub Analytics"/>
+</a>
+
+<a href="https://github.com/prastutimushaharycse2025-dev">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prastutimushaharycse2025-dev&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&custom_title=Languages%20I%20Use" alt="Top Languages"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prastutimushaharycse2025-dev&theme=github_dark" alt="GitHub Stats Summary"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prastutimushaharycse2025-dev&theme=github_dark" alt="GitHub Contribution Overview"/>
+
+</div>
+
+---
+
+<!-- ========================= STREAK ========================= -->
+
+## `> consistency`
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=prastutimushaharycse2025-dev&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+---
+
+<!-- ========================= ACTIVITY GRAPH ========================= -->
+
+## `> activity_graph`
+
+<div align="center">
+
+<a href="https://github.com/prastutimushaharycse2025-dev">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prastutimushaharycse2025-dev&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</a>
+
+</div>
+
+---
+
+<!-- ========================= TROPHIES ========================= -->
+
+## `> achievements`
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=prastutimushaharycse2025-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+</a>
+
+</div>
+
+---
+
+<!-- ========================= CONTRIBUTION CALENDAR ========================= -->
+
+## `> contribution_graph`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prastutimushaharycse2025-dev&theme=github_dark" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<!-- ========================= TECH STACK ========================= -->
+
+## `> tech_stack`
+
+<div align="center">
+
+### Languages
+
+<a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
+</a>
+<a href="https://www.cprogramming.com/">
+  <img src="https://skillicons.dev/icons?i=c" height="48" alt="C"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript"/>
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://skillicons.dev/icons?i=typescript" height="48" alt="TypeScript"/>
+</a>
+
+### Frontend & Backend
+
+<a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/>
+</a>
+<a href="https://nextjs.org/">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js"/>
+</a>
+<a href="https://nodejs.org/">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/>
+</a>
+<a href="https://expressjs.com/">
+  <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express"/>
+</a>
+<a href="https://vite.dev/">
+  <img src="https://skillicons.dev/icons?i=vite" height="48" alt="Vite"/>
+</a>
+
+### Tools
+
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
+</a>
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
+</a>
+<a href="https://tailwindcss.com/">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS"/>
+</a>
+
+</div>
+
+---
+
+<!-- ========================= CURRENTLY ========================= -->
+
+## `> currently`
+
+```text
+building     → Clip Hop
+learning     → TypeScript • JavaScript • Next.js
+exploring    → AI • full-stack development • security
+creating     → software + designs + music
+```
+
+---
+
+<!-- ========================= CONNECT ========================= -->
+
+## `> let's_connect`
+
+<div align="center">
+
+<a href="mailto:mushaharyprastuti@gmail.com">
+  <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://instagram.com/prst.verse">
+  <img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://github.com/prastutimushaharycse2025-dev">
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `build something worth remembering.`
+
+</div>
